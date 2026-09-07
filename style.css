@@ -1,10 +1,12 @@
-.box { width: 600px;
+div { width: 600px;
      height: 300px;
      background-color: #657165;
      border: 1px #789151;
      padding: 50px;
-     margin: 20px;
-     color: #bec3ba}
+     margin: 30px;
+     color: #bec3ba;
+     font-weight: bold;
+     text-align: center;}
 body {background-color: #2f342c}
 h1 {color: #bec3ba;
      font-family: 'Courier New', Courier, monospace}
