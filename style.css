@@ -6,7 +6,11 @@
      margin: 20px;
      color: #bec3ba}
 body {background-color: #2f342c}
-h1 {color: #bec3ba}
-h2 {color: #bec3ba}
+h1 {color: #bec3ba;
+     font-family: 'Courier New', Courier, monospace}
+h2 {color: #bec3ba;
+ font-family: 'Courier New', Courier, monospace}
 ul {color: #9c5e4f}
-p {color: #9c5e4f}
+p {color: #9c5e4f;
+ font-family:'Times New Roman', Times, serif;
+margin: 30px}
